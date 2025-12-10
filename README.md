@@ -30,8 +30,6 @@ That's it.
 
 *Google Play — coming soon*
 
-APK will be at `app/build/outputs/apk/debug/app-debug.apk`
-
 ## Tech Stack
 
 - Kotlin
