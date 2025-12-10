@@ -26,15 +26,9 @@ That's it.
 
 ## Download
 
-[Google Play](#) *(coming soon)*
+[Download APK](https://github.com/kalba-lab/1left/releases/latest/download/1left-v1.0.apk)
 
-## Build
-
-```bash
-git clone https://github.com/kalba-lab/1left.git
-cd 1left
-./gradlew assembleDebug
-```
+*Google Play — coming soon*
 
 APK will be at `app/build/outputs/apk/debug/app-debug.apk`
 
