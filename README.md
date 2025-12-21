@@ -44,4 +44,3 @@ MIT License — see [LICENSE](LICENSE)
 ## Contact
 
 - Website: [1left.app](https://1left.app)
-- Email: contact@1left.app
