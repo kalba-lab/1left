@@ -47,7 +47,7 @@ That's it.
 
 ## Tech
 
-Kotlin, Jetpack Compose, Material 3, SharedPreferences
+Kotlin, Jetpack Compose, Material 3
 
 ## License
 
