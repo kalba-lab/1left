@@ -4,6 +4,23 @@
 
 Minimalist budget tracking app for Android. No accounts, no sync, no ads — just you and your spending limit.
 
+**Website:** [1left.app](https://1left.app)
+
+## Problem
+
+Every budget app wants to be your financial advisor. They demand sign-ups, sync your data, track categories, generate reports. All I needed during my student years was simple: I have €100 for a certain period, show me what's left.
+
+## Solution
+
+One screen. One number. No friction.
+
+```mermaid
+flowchart LR
+    A[Set limit] --> B[Spend]
+    B --> C[See what's left]
+    C --> B
+```
+
 ## How it works
 
 1. Set your spending limit (weekly, monthly, or any amount)
@@ -20,27 +37,16 @@ That's it.
 - 📋 Transaction history with timestamps
 - ⚡ Instant launch, no loading screens
 
-## Screenshots
-
-<!-- Add screenshots here -->
-
 ## Download
 
-[Download APK](https://github.com/kalba-lab/1left/releases/latest/download/1left-v1.0.apk)
+[**Download APK**](https://github.com/kalba-lab/1left/releases/latest/download/1left-v1.0.apk)
 
-*Google Play — coming soon*
+*Google Play coming soon*
 
-## Tech Stack
+## Tech
 
-- Kotlin
-- Jetpack Compose
-- Material 3
-- SharedPreferences (local storage)
+Kotlin, Jetpack Compose, Material 3, SharedPreferences
 
 ## License
 
-MIT License — see [LICENSE](LICENSE)
-
-## Contact
-
-- Website: [1left.app](https://1left.app)
+MIT
