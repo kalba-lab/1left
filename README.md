@@ -2,7 +2,7 @@
 
 **Set a limit. See what's left.**
 
-Minimalist budget tracking app for Android. No accounts, no sync, no ads — just you and your spending limit.
+Minimalist budget tracking app for Android. No accounts, no sync, no ads - just you and your spending limit.
 
 **Website:** [1left.app](https://1left.app)
 
