@@ -36,6 +36,8 @@ That's it.
 - 🎨 4 themes (Dark, Light, Ocean, Purple)
 - 📋 Transaction history with timestamps
 - ⚡ Instant launch, no loading screens
+- ↩️ Undo right after spending (typo protection)
+- 🔄 Reset limit anytime
 
 ## Download
 
