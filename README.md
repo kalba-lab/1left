@@ -4,7 +4,7 @@
 
 Minimalist budget tracking app for Android. No accounts, no sync, no ads - just you and your spending limit.
 
-**Website:** [1left.app](https://1left.app)
+**Website:** [kalba.dev/apps/1Left](https://kalba.dev/apps/1Left/)         
 
 ## Problem
 
